@@ -1,4 +1,4 @@
-# This repository contains our preprocessed dataset which was used in our paper and is a combination of the datasets below:
+# This repository contains our preprocessed dataset which was used in our paper and was a combination of the datasets below:
 
 # Covid Data
 # https://github.com/nytimes/covid-19-data
